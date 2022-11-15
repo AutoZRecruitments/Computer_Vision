@@ -32,7 +32,7 @@ The program must display the segmented image of the person as given below.
 
 ## Submission Guidelines
 
-- Upload your work on your github in a private repository.	
+- Upload your work on your github repository.	
 - Create a readme file which has a rough explanation of the project.
 - The output video should be rendered and uploaded to a drive and the link should be given in the readme file. 
 - Don't forget to make your repository and drive link public.
