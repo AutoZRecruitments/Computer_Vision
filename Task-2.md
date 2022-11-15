@@ -29,7 +29,7 @@ The program needs to do the following-
 
 ## General Guidelines
 
- - Use **C++/Java/Python** programming language only.
+ - Yo are free to use any programming language.
  - You are free to use any **Machine Learning Framework** such as **YOLO, Detectron, MediaPipe** for the detecting the Region of Interest.
  - You can use any **OCR (Optical Character Recognition) Engine** for text recognition.
  - Use simple **File Handling** techniques for writing content to the .txt/.csv file.
