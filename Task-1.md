@@ -1,4 +1,4 @@
-# COMPUTER VISION TASK 1
+# PERCEPTION TASK 1
 
 Computer Vision is a vast field that enables computers to derive meaningful information from digital images, videos and other visual inputs.Image detection and recognition is a crucial part of Machine Learning. Being able to process image data according to our own requirements is essential. 
 <p>Lets say you are travelling in an open road on a vehicle with a camera over its front glass. You
