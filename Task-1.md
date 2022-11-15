@@ -12,9 +12,6 @@ In this task, you are supposed to provide an video input where from the dashcam 
 
 Video input can be provided to the program. The video input may be in the form of a video file saved in the local directory or in the form of a live camera input.
 
-Consider the following video:
-https://youtu.be/TFDKrFuHWng
-
 **For example:** 
 
 
