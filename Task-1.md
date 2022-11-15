@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/AutoZRecruitments/Computer_Vision/blob/main/media/logo.jpeg" alt="Logo">
+</p>
+
 # PERCEPTION TASK 1
 
 Computer Vision is a vast field that enables computers to derive meaningful information from digital images, videos and other visual inputs.Image detection and recognition is a crucial part of Machine Learning. Being able to process image data according to our own requirements is essential. 
@@ -12,16 +16,15 @@ In this task, you are supposed to provide an video input where from the dashcam 
 
 Video input can be provided to the program. The video input may be in the form of a video file saved in the local directory or in the form of a live camera input.
 
-**For example:** 
-<p align="center">
-  <img src="https://github.com/AutoZRecruitments/Computer_Vision/blob/main/media/task1.jpg" alt="Input">
-</p>
 
 ## Output
 
 The program needs to Display the boundaries around the object detected like the image given below.
  
-**For Example:**
+**For example:** 
+<p align="center">
+  <img src="https://github.com/AutoZRecruitments/Computer_Vision/blob/main/media/task1.jpg" alt="Input">
+</p>
 
  
  **Note:** The output should be a video, not a picture. The examples given above are just for reference. Feel free to use any resource. You are free to use any video for the task.
