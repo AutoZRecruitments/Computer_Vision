@@ -17,9 +17,7 @@ Video input can be provided to the program. The video input may be in the form o
 
 ## Output
 
-The program needs to do the following-
-
- 1. Display the boundaries around the object detected.
+The program needs to Display the boundaries around the object detected like the image given below.
  
 **For Example:**
 

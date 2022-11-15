@@ -13,7 +13,6 @@ Image/Video input can be provided to the program. The video input may be in the 
 
 The program must display the segmented image of the person as given below.
 
- 
 
 ## General Guidelines
 
