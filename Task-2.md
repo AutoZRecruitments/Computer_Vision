@@ -29,7 +29,7 @@ The program needs to do the following-
 
 ## General Guidelines
 
- - Yo are free to use any programming language.
+ - You are free to use any programming language.
  - You are free to use any **Machine Learning Framework** such as **YOLO, Detectron, MediaPipe** for the detecting the Region of Interest.
  - You can use any **OCR (Optical Character Recognition) Engine** for text recognition.
  - Use simple **File Handling** techniques for writing content to the .txt/.csv file.
@@ -38,6 +38,10 @@ The program needs to do the following-
 ## Submission Guidelines
 
 - Upload your work on your **github** in a private repository.
+- Create a readme file which has a rough explanation of the project.
+- The output video should be rendered and uploaded to a drive and the link should be given in the readme file. 
+- Don't forget to make your repository and drive link public.
+- The submission on [google colab](https://colab.research.google.com/) cannot be considered as the completion of the project. We expect you to try out everything on your local machine and upload all the documents to github.
 - Please **do not copy paste your code** :D (PS, we will get to know XD)
 
 # Most Importantly, have fun and keep learning!
