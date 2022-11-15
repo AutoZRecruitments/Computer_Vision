@@ -20,7 +20,6 @@ Video input can be provided to the program. The video input may be in the form o
 The program needs to do the following-
 
  1. Display the boundaries around the object detected.
- 2. The same boundary should contain a textbox displaying the object detected.
  
 **For Example:**
 
@@ -29,14 +28,13 @@ The program needs to do the following-
 
 ## General Guidelines
 
- - Use **C++/Java/Python** programming language only.
- - You are free to use any **Machine Learning Framework** such as **YOLO, Detectron, MediaPipe** for the detecting the Region of Interest.
+ - You are free to use any programming language.
  - Try to optimize your approach as best as you can.
 
 ## Submission Guidelines
 
 - Upload your work on your **github** in a private repository.
-- You may upload the video on **youtube** as a private video and share the link/mention it on your github repo.
+- You may upload the video on to drive and share the link/mention it on your github repo.
 - Please **do not copy paste your code** :D (PS, we will get to know XD)
 
 # Most Importantly, have fun and keep learning!
