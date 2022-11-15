@@ -27,6 +27,6 @@ The program must display the segmented image of the person as given below.
 - Create a readme file which has a rough explanation of the project.
 - The output video should be rendered and uploaded to a drive and the link should be given in the readme file. 
 - Don't forget to make your repository and drive link public.
-- The submission on [google collab](https://colab.research.google.com/) cannot be considered as the completion of the project. We expect you to try out everything on your local machine and upload all the documents to github.
+- The submission on [google colab](https://colab.research.google.com/) cannot be considered as the completion of the project. We expect you to try out everything on your local machine and upload all the documents to github.
 
 # Most Importantly, keep learning and have fun!
