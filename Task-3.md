@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/AutoZRecruitments/Computer_Vision/blob/main/media/logo.jpeg" alt="Logo">
+</p>
 
 # PERCEPTION TASK 3
 
@@ -9,10 +12,17 @@ In Task 2, you have successfully detected an object, localized it and Recognized
 
 Image/Video input can be provided to the program. The video input may be in the form of a video file saved in the local directory or in the form of a live camera input.
 
+<p align="center">
+  <img src="https://github.com/AutoZRecruitments/Computer_Vision/blob/main/media/task3-inp.jpg" alt="Input">
+</p>
+
 ## Output
 
 The program must display the segmented image of the person as given below.
 
+<p align="center">
+  <img src="https://github.com/AutoZRecruitments/Computer_Vision/blob/main/media/task3-out.jpg" alt="Output">
+</p>
 
 ## General Guidelines
 
