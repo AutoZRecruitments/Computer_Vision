@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/AutoZRecruitments/Computer_Vision/blob/main/media/logo.jpeg" alt="Logo">
+</p>
+
 # PERCEPTION TASK 2
 
 Image detection and recognition is a crucial part of Machine Learning. Being able to process image data according to our own requirements is essential.
@@ -11,7 +15,9 @@ In this task, you are supposed to provide an image/video input where number plat
 Image/Video input can be provided to the program. The video input may be in the form of a video file saved in the local directory or in the form of a live camera input.
 
 **For example:** 
-
+<p align="center">
+  <img src="https://github.com/AutoZRecruitments/Computer_Vision/blob/main/media/task2-inp.jpg" alt="Input">
+</p>
 
 ## Output
 
@@ -22,7 +28,9 @@ The program needs to do the following-
  3. The same text should be saved in a file in the local directory.
  
 **For Example:**
-
+<p align="center">
+  <img src="https://github.com/AutoZRecruitments/Computer_Vision/blob/main/media/task2-out.jpg" alt="Output">
+</p>
 
  
  **Note:** In case of an image input, simply display the output and save the recognized text in a file. In case of a video (live video feed/video file), along with displaying the text as an overlay on the video, store the recognized text in a new line of the file at one second intervals for the duration of the video/live feed and hence save the file.
